@@ -81,6 +81,11 @@
 * [Overview](post-conditions/overview.md)
 * [Implementing Post-Conditions](post-conditions/implementation.md)
 
+## Security
+
+* [Security Best Practices](security/README.md)
+* [Common Vulnerabilities](security/common-vulnerabilities.md)
+
 ## More Guides
 
 * [sBTC](more-guides/sbtc/README.md)
