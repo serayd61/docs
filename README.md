@@ -32,3 +32,6 @@ Besides the actual content, each Space consists of:
 What kinds of changes are we looking for?
 
 If you see a typo, a missing guide or tutorial, an unclear explanation, or really anything else you think could improve the quality of the documentation, please feel free to open an issue or create a pull request.
+---
+
+_This project is part of the Stacks ecosystem._
