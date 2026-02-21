@@ -33,3 +33,11 @@
   * [Testing Clarity Contracts](bitcoin-primer/stacks-development-fundamentals/testing-clarity-contracts.md)
   * [Frontend with Stacks.js](bitcoin-primer/stacks-development-fundamentals/frontend-with-stacks.js.md)
   * [Deploying Stacks Apps](bitcoin-primer/stacks-development-fundamentals/deploying-stacks-apps.md)
+
+## DeFi Monitoring with Chainhooks
+
+* [Introduction](defi-monitoring-chainhooks/introduction.md)
+* [Project Setup](defi-monitoring-chainhooks/project-setup.md)
+* [Creating Predicates](defi-monitoring-chainhooks/creating-predicates.md)
+* [Processing Payloads](defi-monitoring-chainhooks/processing-payloads.md)
+* [Running the Monitor](defi-monitoring-chainhooks/running-the-monitor.md)
